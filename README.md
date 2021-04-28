@@ -1,4 +1,8 @@
-<h1 align='center'> Hi there 👋, I'm Md Asif Raza 💻 </h1>
+
+<div align="center">
+  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/md-asif-raza-banner.png" alt="md asif raza"></a>
+ </div>
+ <h1 align='center'> Hi there 👋, I'm Md Asif Raza 💻 </h1>
 
 <p align='center'>
   I live in India and work as <b>Student</b> 
