@@ -1,24 +1,16 @@
 
 <div align="center">
-  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/md-asif-raza-banner.png" alt="md asif raza"></a>
+  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/md-asif-raza-banner.png"  width="100%" height="400px" alt="md asif raza"></a>
  </div>
- <h1 align='center'> Hi there 👋, I'm Md Asif Raza 💻 </h1>
+ <h1> Hi there 👋, I'm Md Asif Raza 💻 </h1>
 
-<p align='center'>
+<p >
   I live in India and work as <b>Student</b> 
 </p>
-
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
-</p>
-
-
-<p align='center'>
-  <a href="https://twitter.com/itsmdasifraza"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/itsmdasifraza/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-</p>
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.mdasifraza.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsmdasifraza/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/itsmdasifraza)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/itsmdasifraza)
 
 
 <hr>
