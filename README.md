@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/md-asif-raza-banner.png"  width="100%" height="400px" alt="md asif raza"></a>
+  <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/github-banner-md-asif-raza.png"  width="100%" alt="md asif raza"></a>
  </div>
  <h1> Hi there 👋, I'm Md Asif Raza 💻 </h1>
 
