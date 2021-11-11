@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/github-banner-md-asif-raza.png"  width="100%" alt="md asif raza"></a>
- </div>
+ </div> -->
  <p align="center">
   <h3 align="center">HII, I'M ⚡ MD ASIF RAZA ⚡</h3>
 </p>
@@ -11,8 +11,11 @@
 <p align="center">
    C++ | Javascript | Angular | React | Node | Express | MongoDB.
 </p>
+<!-- <p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=itsmdasifraza&color=blue&style=flat-square" alt="itsmdasifraza profile views" />
+</p> -->
 
-<p >
+<!-- <p >
   I live in India and work as <b>Student</b> 
 </p>
 <a href="https://instagram.com/itsmdasifraza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -55,6 +58,6 @@
   <a href="steamcommunity.com"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-
+ -->
 
 
