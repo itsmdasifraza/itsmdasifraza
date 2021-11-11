@@ -2,7 +2,15 @@
 <div align="center">
   <a href="https://stephenajulu.com"><img src="https://raw.githubusercontent.com/itsmdasifraza/itsmdasifraza/main/assets/github-banner-md-asif-raza.png"  width="100%" alt="md asif raza"></a>
  </div>
- <h1> Hi there 👋, I'm Md Asif Raza 💻 </h1>
+ <p align="center">
+  <h3 align="center">HII, I'M ⚡ MD ASIF RAZA ⚡</h3>
+</p>
+<p align="center">
+   Software Developer | Competitive Programmer | Data Structure Problem Solver.
+</p>
+<p align="center">
+   C++ | Javascript | Angular | React | Node | Express | MongoDB.
+</p>
 
 <p >
   I live in India and work as <b>Student</b> 
