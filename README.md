@@ -6,10 +6,10 @@
   <h3 align="center">HII, I'M ⚡ MD ASIF RAZA ⚡</h3>
 </p>
 <p align="center">
-   Software Developer | Competitive Programmer | Data Structure Problem Solver.
+   Software Developer | Open Source Enthusiast | Data Structure Problem Solver.
 </p>
 <p align="center">
-   C++ | Javascript | Angular | React | Node | Express | MongoDB.
+   C | C++ | Javascript | Typescript | Angular | React | Node | Express | MongoDB.
 </p>
 <!-- <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=itsmdasifraza&color=blue&style=flat-square" alt="itsmdasifraza profile views" />
